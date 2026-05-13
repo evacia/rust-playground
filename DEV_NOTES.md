@@ -6,3 +6,7 @@ Personal development log — notes, findings, and ongoing work.
 - Bumped patch version
 - Updated dependencies to latest stable versions
 - Wrote notes on upcoming feature design
+
+## 2026-05-13
+- Added basic usage examples to README
+- Improved error handling in edge cases
